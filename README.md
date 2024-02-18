@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aloo-bhujia
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning Networking Protocols
-- 📫 Contact me grandmasterblueberryice@gmail.com
+- 📫 Contact me grandmasterblueberryice@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Familiar with embedding various payload into different types of apks and MITM
 
